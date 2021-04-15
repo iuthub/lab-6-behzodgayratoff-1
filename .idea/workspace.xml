@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd362334-fa3e-44a0-a5a9-0be1c890bc1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9003" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1qe8lk8YKvyWsYVcB8RAnAquwKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.24612203" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd362334-fa3e-44a0-a5a9-0be1c890bc1d" name="Default Changelist" comment="" />
+      <created>1617428850818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617428850818</updated>
+      <workItem from="1617428853666" duration="619000" />
+      <workItem from="1618239208388" duration="2041000" />
+      <workItem from="1618382189232" duration="3751000" />
+      <workItem from="1618388058197" duration="1160000" />
+      <workItem from="1618390612794" duration="2931000" />
+      <workItem from="1618395677540" duration="16184000" />
+      <workItem from="1618480025946" duration="10167000" />
+      <workItem from="1618514072922" duration="790000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab#6 is done">
+      <created>1618514714319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618514714319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab#6 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab#6 is done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="73" key="#CLI_Interpreters" timestamp="1618393092084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="73" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1618393092084" />
+    <state x="475" y="74" key="#PHP" timestamp="1618239243776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="74" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1618239243776" />
+    <state x="223" y="67" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618395757244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1618395757244" />
+    <state x="450" y="208" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618392528670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="208" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1618392528670" />
+    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1618514713647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1618514713647" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1618416720381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618416720381" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1618416720381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618416720381" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1618416720381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618416720381" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1618416720381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618416720381" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1618408863137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1618408863137" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1618393097375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618393097375" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1618514721398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618514721398" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618514664296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1618514664296" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1618392970153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1618392970153" />
+  </component>
+</project>
